@@ -1,4 +1,4 @@
-// ==================== QUANTUM NEURAL NETWORK MODULE ====================
+nano neural.py // ==================== QUANTUM NEURAL NETWORK MODULE ====================
 
 class QuantumNeuralNetwork {
   constructor() {
