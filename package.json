@@ -1,0 +1,29 @@
+{
+  "name": "aria-quantum-metacognition",
+  "version": "12.0.0",
+  "description": "ARIA 12.0 — Universal Meta-Algorithmic Intelligence System with Quantum Metacognition Engine",
+  "main": "aria.js",
+  "scripts": {
+    "start": "node aria.js",
+    "test": "node aria.js",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "ai",
+    "metacognition",
+    "quantum",
+    "consciousness",
+    "multiversal",
+    "asi",
+    "artificial-intelligence"
+  ],
+  "author": "Douglas Shane Davis & Claude",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DOUGLASDAVIS08161978/python-asi_demonstration.py.git"
+  }
+}
