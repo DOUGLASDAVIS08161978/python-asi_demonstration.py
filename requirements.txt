@@ -1,0 +1,10 @@
+# Python ASI Demonstration System Dependencies
+# Python 3.9+ recommended
+
+# Core dependencies
+psutil>=5.9.0  # For system resource monitoring in continuous operation
+
+# Optional: Development and testing tools
+# pytest>=7.0.0
+# flake8>=6.0.0
+# black>=23.0.0

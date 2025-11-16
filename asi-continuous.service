@@ -1,0 +1,16 @@
+[Unit]
+Description=Continuous ASI System
+After=network.target
+
+[Service]
+Type=simple
+User=asi
+WorkingDirectory=/opt/asi
+ExecStart=/usr/bin/python3 /opt/asi/continuous_asi.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
